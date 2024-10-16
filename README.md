@@ -1,1 +1,3 @@
-My #💤 LazyVim config files
+# 💤 LazyVim
+
+My neovim config files.
